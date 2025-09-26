@@ -1,0 +1,6 @@
+{
+    "name": "Meu codespace",
+    "forwardPorts": [
+        8000
+    ]
+}
